@@ -1,7 +1,7 @@
 **Python script files**
 
 **NODE**
-- my_fist_node.py 
+- my_first_node.py 
 
 **TOPICS**
 - number_publisher.py
