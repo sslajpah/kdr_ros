@@ -1,4 +1,4 @@
-**Python scripts files**
+**Python script files**
 
 **NODE**
 - my_fist_node.py 
